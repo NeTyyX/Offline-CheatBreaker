@@ -1,4 +1,4 @@
-**__Beta 4 Release notes:__**
+**__Beta 5 Release notes:__**
 
 Special thanks to ArcaneCiCi for helping us with this update.
 
