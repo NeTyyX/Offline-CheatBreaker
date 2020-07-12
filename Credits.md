@@ -1,0 +1,7 @@
+- Temporary launcher by [ShonP40](https://github.com/ShonP40) (Credits to the [SKCraft Launcher team](https://github.com/SKCraft/Launcher)).
+- Beta Launcher by [ShonP40](https://github.com/ShonP40), [Jegox](https://github.com/JegoxMC), Maurice Norden and [ArcaneCiCi](https://github.com/ArcaneCiCi).
+- Website edited by [ShonP40](https://github.com/ShonP40).
+- Original design, concept, UI, etc. taken from [jhalt](https://github.com/jhalt) & [CheatBreaker](https://github.com/CheatBreaker)'s original development team. Not endorsed, affiliated, or approved by them in any way.
+- Lunar Client 1.8.9 Original design, concept, UI, etc. taken from [Moonsworth](https://github.com/Moonsworth) & [Lunar Client](https://github.com/LunarClient)'s original development team. Not endorsed, affiliated, or approved by them in any way.
+- Offline Lunar Client 1.8.9 was reskined by [Tellinq](https://github.com/Tellinq) and [ShonP40](https://github.com/ShonP40) to create Offline CheatBreaker 1.8.9.
+- Bukkit API by [rbuh](https://github.com/rbuh).
