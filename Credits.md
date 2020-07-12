@@ -1,5 +1,5 @@
 - Temporary launcher by [ShonP40](https://github.com/ShonP40) (Credits to the [SKCraft Launcher team](https://github.com/SKCraft/Launcher)).
-- Beta Launcher by [ShonP40](https://github.com/ShonP40), [Jegox](https://github.com/JegoxMC), Maurice Norden, [ArcaneCiCi](https://github.com/ArcaneCiCi) and [itsjhalt2](https://github.com/itsjhalt2).
+- Beta Launcher by [ShonP40](https://github.com/ShonP40), [Jegox](https://github.com/JegoxMC), [Maurice Norden](https://github.com/mn-Devs), [ArcaneCiCi](https://github.com/ArcaneCiCi) and [itsjhalt2](https://github.com/itsjhalt2).
 - Website edited by [ShonP40](https://github.com/ShonP40).
 - Original design, concept, UI, etc. taken from [jhalt](https://github.com/jhalt) & [CheatBreaker](https://github.com/CheatBreaker)'s original development team. Not endorsed, affiliated, or approved by them in any way.
 - Lunar Client 1.8.9 Original design, concept, UI, etc. taken from [Moonsworth](https://github.com/Moonsworth) & [Lunar Client](https://github.com/LunarClient)'s original development team. Not endorsed, affiliated, or approved by them in any way.
