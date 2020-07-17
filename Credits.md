@@ -4,4 +4,4 @@
 - Original design, concept, UI, etc. taken from [jhalt](https://github.com/jhalt) & [CheatBreaker](https://github.com/CheatBreaker)'s original development team. Not endorsed, affiliated, or approved by them in any way.
 - Lunar Client 1.8.9 Original design, concept, UI, etc. taken from [Moonsworth](https://github.com/Moonsworth) & [Lunar Client](https://github.com/LunarClient)'s original development team. Not endorsed, affiliated, or approved by them in any way.
 - Offline Lunar Client 1.8.9 was reskined by [Tellinq](https://github.com/Tellinq) and [ShonP40](https://github.com/ShonP40) to create Offline CheatBreaker 1.8.9.
-- Bukkit API by [rbuh](https://github.com/rbuh).
+- Bukkit API by the [CheatBreaker Team](https://github.com/CheatBreaker/CheatBreakerAPI) & edited by [rbuh](https://github.com/rbuh).
