@@ -1,6 +1,6 @@
 # Offline CheatBreaker
 
-CheatBreaker is a modpack and client-side anticheat combined! In most cases, CheatBreaker more than doubles your normal Minecraft frames!
+CheatBreaker is a modpack and FPS booter combined! In most cases, CheatBreaker more than doubles your normal Minecraft frames!
 
 On this GitHub page you can report bugs and submit suggestions using the Bug lable (to submit bugs) and the Suggestion lable (to submit suggestions).
 
